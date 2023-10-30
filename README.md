@@ -1,1 +1,3 @@
 # Curricola.py
+
+Curriculum.py is the first version of a little program I wrote at the beginning of my experimentation with python. It deals with calculating the some statistics about the exams taken in college and creating predictions of what is the average following each possible outcome of the student's next exam. I created it mainly because the university website provides the student's statistics, but I wanted to know how my statistics will vary as a result of the next grades I take. I often found myself doing this kind of calculation by hand, right after the grade came out and before it was verbalized, to see how the average would change if I accepted the grade, so I thought I would automate it. 
